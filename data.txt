@@ -1,0 +1,1 @@
+{"direccionV":"000100010000","numBit1":4,"numBit2":4,"numBitMarco":4,"tamPal":1,"tablaPaginas":"tablaPaginas.txt"}
